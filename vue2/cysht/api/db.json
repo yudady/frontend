@@ -1,0 +1,222 @@
+{
+  "swiperList": [
+    {
+      "id": 1,
+      "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a2b3ab270e5ae4c9e85d6607cdb97008.jpg?f=webp&w=1080&h=540&bg=DC85AF"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0b2bb13c396cc6205dd91da3a91a275a.jpg?f=webp&w=1080&h=540&bg=A8D4D5"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1ab1ffaaeb5ca4c02674e9f35b1fd17c.jpg?f=webp&w=1080&h=540&bg=59A5FD"
+    }
+  ],
+  "flowerList": [
+    {
+      "id": 9012452,
+      "desc": "向日葵3枝、香槟玫瑰9枝、橙色多头玫5枝、黄色腊梅5枝、大叶尤加利5枝",
+      "name": "韩式系列/一路向阳",
+      "tag": "全新韩式系列",
+      "promo": "花艺师打造 韩式花束系列",
+      "price": "296",
+      "sales": "76000",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012452.jpg_220x240.jpg",
+      "scene": "送长辈",
+      "isNew": 1
+    },
+    {
+      "id": 9012505,
+      "desc": "玫红色康乃馨9枝、粉色多头康乃馨10枝",
+      "name": "母爱",
+      "tag": "热卖款",
+      "promo": "热卖款",
+      "price": "169",
+      "sales": "3670",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012505.jpg_220x240.jpg",
+      "scene": "送朋友",
+      "isNew": 1
+    },
+    {
+      "id": 9012541,
+      "desc": "粉色康乃馨66枝、粉色多头康乃馨6枝",
+      "name": "暖暖情意",
+      "tag": "66粉康新款",
+      "promo": "66枝粉康乃馨新款",
+      "price": "332",
+      "sales": "71",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012541.jpg_220x240.jpg",
+      "scene": "送长辈",
+      "isNew": 0
+    },
+    {
+      "id": 9012521,
+      "desc": "向日葵+香槟玫瑰+多头玫瑰",
+      "name": "韩式系列/绽放",
+      "tag": "暖阳系列新品",
+      "promo": "暖阳系列新品上市",
+      "price": "179",
+      "sales": "2461",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012521.jpg_220x240.jpg",
+      "scene": "送男性",
+      "isNew": 1
+    },
+    {
+      "id": 9012540,
+      "desc": "红色康乃馨99枝、红多头康乃馨10枝",
+      "name": "健康长久",
+      "tag": "99红康新款",
+      "promo": "99枝康乃馨新款",
+      "price": "439",
+      "sales": "58",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012540.jpg_220x240.jpg",
+      "scene": "送长辈",
+      "isNew": 1
+    },
+    {
+      "id": 9010966,
+      "desc": "精品玫瑰礼盒:19枝卡罗拉红玫瑰，勿忘我1枝",
+      "name": "一往情深",
+      "tag": "年销售冠军",
+      "promo": "经典爆款，年销售冠军！",
+      "price": "248",
+      "sales": "138000",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9010966.jpg_220x240.jpg",
+      "scene": "送女友",
+      "isNew": 1
+    },
+    {
+      "id": 9012471,
+      "desc": "卡罗拉红玫瑰11枝",
+      "name": "你是唯一",
+      "tag": "11枝热销款",
+      "promo": "11枝新品 一心一意的爱",
+      "price": "139",
+      "sales": "8.0",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012471.jpg_220x240.jpg",
+      "scene": "送女友",
+      "isNew": 0
+    },
+    {
+      "id": 9012455,
+      "desc": "粉佳人玫瑰16枝、白和粉色洋桔梗各5枝、尤加利10枝、浅紫色小菊3枝、深粉色/浅粉色绣球1枝",
+      "name": "韩式系列/亲爱的你",
+      "tag": "全新韩式系列",
+      "promo": "花艺师打造 韩式花束系列",
+      "price": "389",
+      "sales": "21000",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012455.jpg_220x240.jpg",
+      "scene": "送朋友",
+      "isNew": 0
+    },
+    {
+      "id": 9012177,
+      "desc": "99枝卡罗拉红玫瑰",
+      "name": "不变的承诺",
+      "tag": "经典99枝",
+      "promo": "经典99枝，鼎力推荐！",
+      "price": "589",
+      "sales": "73000",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012177.jpg_220x240.jpg",
+      "scene": "送男性",
+      "isNew": 0
+    },
+    {
+      "id": 9012467,
+      "desc": "戴安娜粉玫瑰11枝",
+      "name": "Best for You",
+      "tag": "11枝粉色新品",
+      "promo": "11枝新品 你是我的唯一",
+      "price": "145",
+      "sales": "25000",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012467.jpg_220x240.jpg",
+      "scene": "送朋友",
+      "isNew": 1
+    },
+    {
+      "id": 9012538,
+      "desc": "卡罗拉红玫瑰16枝、香槟玫瑰9枝、向日葵3枝",
+      "name": "永远爱你",
+      "tag": "暖阳新款",
+      "promo": "暖阳新款",
+      "price": "289",
+      "sales": "535",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012538.jpg_220x240.jpg",
+      "scene": "送朋友",
+      "isNew": 0
+    },
+    {
+      "id": 9010969,
+      "desc": "精品玫瑰礼盒:香槟玫瑰19枝，勿忘我适量",
+      "name": "你最珍贵",
+      "tag": "",
+      "promo": "优雅设计 精致甄选",
+      "price": "248",
+      "sales": "63000",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9010969.jpg_220x240.jpg",
+      "scene": "送女友",
+      "isNew": 0
+    },
+    {
+      "id": 9012473,
+      "desc": "艾莎玫瑰19枝",
+      "name": "韩式系列/你笑起来真好看",
+      "tag": "全新爱莎玫瑰",
+      "promo": "全新韩式系列 珍品玫瑰",
+      "price": "296",
+      "sales": "4894",
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012473.jpg_220x240.jpg",
+      "scene": "送女友",
+      "isNew": 0
+    },
+    {
+      "id": 9012519,
+      "desc": "香槟玫瑰11枝、向日葵2枝、香槟色洋桔梗3枝、橙色多头玫瑰2枝、尤加利叶5枝",
+      "name": "韩式花篮/阳光使者",
+      "tag": "暖阳系列新品",
+      "promo": "",
+      "price": "283",
+      "sales": 234,
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012519.jpg_220x240.jpg",
+      "scene": "送朋友",
+      "isNew": 1
+    },
+    {
+      "id": 90125411,
+      "desc": "红康乃馨33枝、香槟玫瑰9枝、向日葵3枝",
+      "name": "真挚祝福",
+      "tag": "中秋定制新品",
+      "promo": "",
+      "price": "332",
+      "sales": 6789,
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012543.jpg_220x240.jpg",
+      "scene": "送长辈",
+      "isNew": 0
+    },
+    {
+      "id": 9012450,
+      "desc": " 韩式花束系列花艺师全新打造，卡罗拉玫瑰11枝、白底粉边洋桔梗5枝、大叶尤加利10枝",
+      "name": "韩式系列/初心不负",
+      "tag": "全新韩式系列",
+      "promo": "",
+      "price": "224",
+      "sales": 10000,
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012450.jpg_220x240.jpg",
+      "scene": "送女友",
+      "isNew": 1
+    },
+    {
+      "id": 9012332,
+      "desc": "粉绣球1枝，粉雪山玫瑰6枝",
+      "name": "留住好时光",
+      "tag": "热卖推荐",
+      "promo": "",
+      "price": "240",
+      "sales": 35000,
+      "pic": "https://img01.hua.com/uploadpic/newpic/9012332.jpg_220x240.jpg",
+      "scene": "送长辈",
+      "isNew": 1
+    }
+  ]
+}
