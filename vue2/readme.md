@@ -4,7 +4,7 @@ https://ithelp.ithome.com.tw/users/20109403/ironman/3073
 
 ## vue2
 https://www.bilibili.com/video/BV1HE411e7vY/?p=3&spm_id_from=pageDriver&vd_source=6bd04a20c72eb5cca642210346af7081
-
+https://www.bilibili.com/video/BV1j5411o7xH?p=10&vd_source=6bd04a20c72eb5cca642210346af7081
 
 ## Element UI指南
 https://cloud.tencent.com/developer/section/1489873
